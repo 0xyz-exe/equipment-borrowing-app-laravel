@@ -13,6 +13,17 @@ A streamlined equipment lending and reservation management system built with Lar
 - ✅ **Return Management**: Mark equipment as returned and restore item availability.
 - ✅ **Request History**: Complete audit trail of active, past, and rejected borrow requests.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Manajemen Inventaris**<br>KPI ketersediaan alat, permohonan tertunda, dan riwayat peminjaman | ![Dashboard Manajemen Inventaris](docs/screenshots/01-dashboard-overview.png) |
+| **Katalog Inventaris Alat & Peralatan**<br>Katalog perangkat lengkap dengan kode, kategori, kondisi, dan status | ![Katalog Inventaris Alat](docs/screenshots/02-equipment-catalog.png) |
+| **Formulir Pengajuan Peminjaman Alat**<br>Jadwal tanggal pinjam dan pengembalian disertai catatan keperluan | ![Formulir Pengajuan Peminjaman](docs/screenshots/03-borrow-request-form.png) |
+| **Panel Manajemen Persetujuan Peminjaman**<br>Otorisasi persetujuan, penolakan, dan pencatatan pengembalian alat | ![Panel Manajemen Persetujuan](docs/screenshots/04-borrow-requests-management.png) |
+
+---
+
 ## Tech Stack
 
 Laravel 13.38.0 · Breeze 2.4 · SQLite · Tailwind CSS
