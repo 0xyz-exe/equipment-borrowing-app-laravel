@@ -42,15 +42,6 @@ All accounts use the password: `password`
 - **equipment**: `id`, `name`, `code`, `category`, `description`, `condition` (Good/Fair/Poor), `is_available`, `timestamps`
 - **borrow_requests**: `id`, `user_id`, `equipment_id`, `purpose`, `borrow_date`, `return_date`, `actual_return_date`, `status` (pending/approved/rejected/returned), `admin_notes`, `timestamps`
 
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
-
 ## License
 
 MIT
